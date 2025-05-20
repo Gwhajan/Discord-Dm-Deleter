@@ -1,0 +1,4 @@
+asyncio
+logging
+discord==1.7.3
+time
